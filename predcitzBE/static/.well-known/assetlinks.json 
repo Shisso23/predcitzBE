@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.collaboratorapp",
+      "sha256_cert_fingerprints":
+      ["BB:2E:B4:6D:01:AF:76:88:A9:6B:76:D9:63:56:95:2D:C0:44:72:27:7D:3A:15:0D:70:9F:D4:BE:97:38:5A:53"]
+    }
+  }]

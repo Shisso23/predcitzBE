@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "8CC8A7GVRW.com.collab.citizen"
+        ],
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
